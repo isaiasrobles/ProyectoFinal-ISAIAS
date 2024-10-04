@@ -12,7 +12,7 @@
     {
         "id": "remera-02",
         "titulo": "Remera PUMA AQUA",
-        "imagen": "../img/remera2.webp",
+        "imagen": "./img/remera2.webp",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -22,7 +22,7 @@
     {
         "id": "remera-03",
         "titulo": "Remera Champion",
-        "imagen": "../img/remera3.webp",
+        "imagen": "./img/remera3.webp",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -32,7 +32,7 @@
     {
         "id": "remera-04",
         "titulo": "Remera ADIDAS",
-        "imagen": "../img/remera4.webp",
+        "imagen": "./img/remera4.webp",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -42,7 +42,7 @@
     {
         "id": "remera-05",
         "titulo": "Remera PUMA DOWNTOWN WHITE",
-        "imagen": "../img/remera5.webp",
+        "imagen": "./img/remera5.webp",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -52,7 +52,7 @@
     {
         "id": "remera-06",
         "titulo": "Remera PUMA BMW MOTOSPORT",
-        "imagen": "../img/remera6.webp",
+        "imagen": "./img/remera6.webp",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -62,7 +62,7 @@
     {
         "id": "remera-06",
         "titulo": "Remera PUMA BMW MOTOSPORT",
-        "imagen": "../img/remera6.webp",
+        "imagen": "./img/remera6.webp",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -72,7 +72,7 @@
     {
         "id": "abrigo-01",
         "titulo": "Campera PUMA",
-        "imagen": "../img/abrigo1.webp",
+        "imagen": "./img/abrigo1.webp",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -82,7 +82,7 @@
     {
         "id": "abrigo-02",
         "titulo": "Campera ADIDAS",
-        "imagen": "../img/abrigo2.webp",
+        "imagen": "./img/abrigo2.webp",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -92,7 +92,7 @@
     {
         "id": "abrigo-03",
         "titulo": "Buzo Champion",
-        "imagen": "../img/abrigo3.webp",
+        "imagen": "./img/abrigo3.webp",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -102,7 +102,7 @@
     {
         "id": "abrigo-04",
         "titulo": "Buzo PUMA BLACK",
-        "imagen": "../img/abrigo4.webp",
+        "imagen": "./img/abrigo4.webp",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -112,7 +112,7 @@
     {
         "id": "abrigo-05",
         "titulo": "Buzo NIKE",
-        "imagen": "../img/abrigo5.webp",
+        "imagen": "./img/abrigo5.webp",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -122,7 +122,7 @@
     {
         "id": "zapatillas-01",
         "titulo": "Zapatillas PUMA SUEDE",
-        "imagen": "../img/zapatillas1.webp",
+        "imagen": "./img/zapatillas1.webp",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -132,7 +132,7 @@
     {
         "id": "zapatillas-02",
         "titulo": "Zapatillas NIKE DUNK LOW BLUE",
-        "imagen": "../img/zapatillas2.webp",
+        "imagen": "./img/zapatillas2.webp",
         "categoria": {
             "nombre": "Zapatillas",
             "id": "zapatillas"
@@ -142,7 +142,7 @@
     {
         "id": "zapatillas-03",
         "titulo": "Jordan Spizike Low",
-        "imagen": "../img/zapatillas3.webp",
+        "imagen": "./img/zapatillas3.webp",
         "categoria": {
             "nombre": "Zapatillas",
             "id": "zapatillas"
@@ -152,7 +152,7 @@
     {
         "id": "zapatillas-04",
         "titulo": "Zapatillas NIKE AIR MAX 1",
-        "imagen": "../img/zapatillas4.webp",
+        "imagen": "./img/zapatillas4.webp",
         "categoria": {
             "nombre": "Zapatillas",
             "id": "zapatillas"
@@ -162,7 +162,7 @@
     {
         "id": "zapatillas-05",
         "titulo": "Zapatillas PUMA CA-PRO",
-        "imagen": "../img/zapatillas5.webp",
+        "imagen": "./img/zapatillas5.webp",
         "categoria": {
             "nombre": "Zapatillas",
             "id": "zapatillas"
@@ -172,7 +172,7 @@
     {
         "id": "zapatillas-06",
         "titulo": "Zapatillas PUMA MERCEDES AMG",
-        "imagen": "../img/zapatillas6.webp",
+        "imagen": "./img/zapatillas6.webp",
         "categoria": {
             "nombre": "Zapatillas",
             "id": "zapatillas"
