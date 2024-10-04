@@ -2,7 +2,7 @@
     {
         "id": "remera-01",
         "titulo": "Remera PUMA DOWNTOWN BLACK",
-        "imagen": "../img/remera1.webp",
+        "imagen": "./img/remera1.webp",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
