@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&family=Unbounded:wght@200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Shadows+Into+Light&family=Unbounded:wght@200..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+header .container-main-left {
+    display: flex;
+    position: sticky;
+    left: 50rem;
+    padding: 25px;
+    gap: 20px;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+header .container-main-left .main-title {
+    font-family: "Unbounded", sans-serif;
+}
+
+header .container-main-left .main-variables {
+    font-family: "Roboto Slab", serif;
+    font-size: larger;
+}
+
+header .container-main-right {
+    display: flex;
+    position: relative;
+    gap: 20px;
+    left: 130vh;
+}
+
+header .active {
+    text-decoration: underline;
+}
+
+main {
+    padding: 2rem;
+}
+
+.main-articles {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+}
+
+
+.article {
+    background-color: #4B4B4B;
+    border-radius: 1rem;
+    color: white;
+    overflow: hidden;
+    transition: transform 0.3s;
+    text-align-last: center;
+}
+
+.article:hover {
+    transform: scale(1.05);
+}
+
+.article img {
+    max-width: 100%;
+    display: block;
+}
+
+.article h3 {
+    margin: 1rem 0 0.5rem;
+    font-size: 1.2rem;
+}
+
+.article p {
+    margin: 0 1rem 1rem;
+    font-size: 0.9rem;
+    color: #ddd;
+    text-align: center;
+}
+
+.producto-agregar {
+    border-radius: .75rem;
+    border: 0;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: .5rem;
+    margin-top: .5rem;
+    cursor: pointer;
+    transition: .2s;
+    width: 100%;
+}
+
+.producto-agregar:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.main-cart {
+    gap: 1rem;
+}
+
+.numerito {
+    color: black;
+    background-color: white;
+    padding: .15rem .25rem;
+    border-radius: .25rem;
+    margin-left: 5px;
+}
+
+footer {
+    background-color: black;
+    padding: 1rem 2rem;
+    text-align: center;
+    color: white;
+}

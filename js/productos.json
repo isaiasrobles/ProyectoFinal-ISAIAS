@@ -1,0 +1,182 @@
+[
+    {
+        "id": "remera-01",
+        "titulo": "Remera PUMA DOWNTOWN BLACK",
+        "imagen": "../img/remera1.webp",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 9999
+    },
+    {
+        "id": "remera-02",
+        "titulo": "Remera PUMA AQUA",
+        "imagen": "../img/remera2.webp",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 9499
+    },
+    {
+        "id": "remera-03",
+        "titulo": "Remera Champion",
+        "imagen": "../img/remera3.webp",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 8499
+    },
+    {
+        "id": "remera-04",
+        "titulo": "Remera ADIDAS",
+        "imagen": "../img/remera4.webp",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 9999
+    },
+    {
+        "id": "remera-05",
+        "titulo": "Remera PUMA DOWNTOWN WHITE",
+        "imagen": "../img/remera5.webp",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 9499
+    },
+    {
+        "id": "remera-06",
+        "titulo": "Remera PUMA BMW MOTOSPORT",
+        "imagen": "../img/remera6.webp",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 9499
+    },
+    {
+        "id": "remera-06",
+        "titulo": "Remera PUMA BMW MOTOSPORT",
+        "imagen": "../img/remera6.webp",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 9499
+    },
+    {
+        "id": "abrigo-01",
+        "titulo": "Campera PUMA",
+        "imagen": "../img/abrigo1.webp",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 16499
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Campera ADIDAS",
+        "imagen": "../img/abrigo2.webp",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 24999
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Buzo Champion",
+        "imagen": "../img/abrigo3.webp",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 16499
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Buzo PUMA BLACK",
+        "imagen": "../img/abrigo4.webp",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 15999
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Buzo NIKE",
+        "imagen": "../img/abrigo5.webp",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 9499
+    },
+    {
+        "id": "zapatillas-01",
+        "titulo": "Zapatillas PUMA SUEDE",
+        "imagen": "../img/zapatillas1.webp",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 24499
+    },
+    {
+        "id": "zapatillas-02",
+        "titulo": "Zapatillas NIKE DUNK LOW BLUE",
+        "imagen": "../img/zapatillas2.webp",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 24499
+    },
+    {
+        "id": "zapatillas-03",
+        "titulo": "Jordan Spizike Low",
+        "imagen": "../img/zapatillas3.webp",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 29999
+    },
+    {
+        "id": "zapatillas-04",
+        "titulo": "Zapatillas NIKE AIR MAX 1",
+        "imagen": "../img/zapatillas4.webp",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 19999
+    },
+    {
+        "id": "zapatillas-05",
+        "titulo": "Zapatillas PUMA CA-PRO",
+        "imagen": "../img/zapatillas5.webp",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 17499
+    },
+    {
+        "id": "zapatillas-06",
+        "titulo": "Zapatillas PUMA MERCEDES AMG",
+        "imagen": "../img/zapatillas6.webp",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 17499
+    }
+]
